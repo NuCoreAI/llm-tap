@@ -1,2 +1,2 @@
-git+https://github.com/advanced-stack/llama-cpp-python.git@feature/ranking
+git+https://github.com/NuCoreAI/llama-cpp-python.git@feature/ranking
 requests
